@@ -7,3 +7,9 @@
 - Load the code
 - Type calculator to start the calculator
 - Ask to calculate
+
+# How to use
+- use 'plus' for the addition
+- use 'minus' for the substraction
+- use 'times' for the multiplication
+- use 'divided by' for the division
